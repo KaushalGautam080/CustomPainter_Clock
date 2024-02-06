@@ -1,16 +1,8 @@
-# custom_painter_clock
+# Analaog Clock using Custom Painter
 
-A new Flutter project.
+- An analog app that displays local time 
 
-## Getting Started
+# Demo:
 
-This project is a starting point for a Flutter application.
+https://github.com/KaushalGautam080/CustomPainter_Clock/assets/101984287/cf808477-b0e1-4232-9f02-ceee227cb150
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
